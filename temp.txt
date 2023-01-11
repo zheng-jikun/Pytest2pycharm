@@ -1,0 +1,2 @@
+Helper file created.
+the size of the rectangle is 30*10
